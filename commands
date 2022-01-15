@@ -1,0 +1,23 @@
+sudo apt update
+sudo apt upgrade
+sudo apt install tmux
+sudo apt install vim
+curl -fsSL https://get.docker.com -o get-docker.sh
+sh get-docker.sh
+https://pypi.org/project/RPi.bme280/
+sudo apt install python3-pip
+pip install RPi.bme280
+sudo apt install sqlite3
+sudo apt install nginx
+pip install uwsgi
+sudo systemctl status nginx
+pip install flask
+sudo apt install python3-dev
+pip install rpi.gpio
+sudo apt-get install python3-venv
+python3 -m venv .
+sudo apt install git
+sudo apt install fish
+sudo apt install zsh
+https://github.com/ycm-core/YouCompleteMe/wiki/Building-Vim-from-source
+ssh-keygen -o
